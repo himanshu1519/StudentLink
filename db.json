@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "HIMANSHU KUMAR",
+      "class": "BTECH",
+      "email": "HIMANSHU@GMAIL.COM",
+      "mobile": "9917444011"
+    },
+    {
+      "id": 2,
+      "name": "Jaya Mishra",
+      "class": "B.tech",
+      "email": "jaya@gmail.com",
+      "mobile": "7394843180"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "himanshu"
+  }
+}
